@@ -1,6 +1,6 @@
 <html>
 <head>
-  <img src="Desktop/GitHub Files/R6Stats/image" width="500" height="900">
+  <img src="https://raw.githubusercontent.com/ZeroSwarmz/R6Stats/master/.gitignore/image.jpg" width="500" height="900">
 </head>
 <body>
 </body>
