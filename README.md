@@ -1,6 +1,6 @@
 <html>
 <head>
-  <img src="Destop/GitHub Files/R6Stats/images/image" width="500" height="900">
+  <img src="This PC/Destop/GitHub Files/R6Stats/images/image" width="500" height="900">
 </head>
 <body>
 </body>
