@@ -5,6 +5,6 @@
   <img src="https://github.com/ZeroSwarmz/R6Stats/blob/master/.gitignore/image.jpg?raw=true">
 </head>
 <body>
-  <link herf="cool-mathgames.com">
+  <a herf="cool-mathgames.com">
   </body>
 </html>
