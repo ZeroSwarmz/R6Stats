@@ -4,7 +4,7 @@
   
 <link rel="stylesheet" type="text/css" herf="mystylesheet.css">
   <img src="https://github.com/ZeroSwarmz/R6Stats/blob/master/.gitignore/image.jpg?raw=true">
-<a href="https://www.cool-mathgames.com">Bypass</a>
+<a href="https: // http: //www.coolmath-games.com/">Bypass</a>
 
   
 </head>
