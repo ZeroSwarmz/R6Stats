@@ -7,8 +7,7 @@
 
 </head>
 <body>
-  <a href="
-https://www.coolmath-games.com">oof</a>
+
 </head>
   </body>
   
