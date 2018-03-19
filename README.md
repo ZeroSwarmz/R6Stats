@@ -7,7 +7,7 @@
 
 </head>
 <body>
-  <a href="https://zeroswarmz.github.io/oof/">oof</a>
+  <a href="https://www.coolmath-games.com">oof</a>
 </head>
   </body>
   
